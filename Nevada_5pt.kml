@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Placemark>
+  <name>Nevada</name>
+  <description>Nevada in 5 pts</description>
+  <Polygon>
+   <outerBoundaryIs>
+    <LinearRing>
+      <coordinates>
+        -120,39,0
+        -114.65,35,0
+        -114.05,36.25,0
+        -114.05,42,0 
+        -120,42,0
+        -120,39,0
+      </coordinates>
+    </LinearRing>
+   </outerBoundaryIs>
+  </Polygon>
+ </Placemark>
+</Document>
+</kml>
