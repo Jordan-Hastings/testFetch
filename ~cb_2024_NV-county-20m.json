@@ -2,7 +2,7 @@
 "features": [ {
    "type": "Feature",
 "properties": {
-"name": "s32c001", "description": "Churchill County", "census_variable": "" },
+"name": "s32c001", "description": "Churchill County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -10,7 +10,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c003", "description": "Clark County", "census_variable": "" },
+"name": "s32c003", "description": "Clark County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -18,7 +18,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c005", "description": "Douglas County", "census_variable": "" },
+"name": "s32c005", "description": "Douglas County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -26,7 +26,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c007", "description": "Elko County", "census_variable": "" },
+"name": "s32c007", "description": "Elko County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -34,7 +34,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c009", "description": "Esmeralda County", "census_variable": "" },
+"name": "s32c009", "description": "Esmeralda County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -42,7 +42,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c011", "description": "Eureka County", "census_variable": "" },
+"name": "s32c011", "description": "Eureka County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -50,7 +50,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c013", "description": "Humboldt County", "census_variable": "" },
+"name": "s32c013", "description": "Humboldt County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -58,7 +58,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c015", "description": "Lander County", "census_variable": "" },
+"name": "s32c015", "description": "Lander County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -66,7 +66,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c017", "description": "Lincoln County", "census_variable": "" },
+"name": "s32c017", "description": "Lincoln County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -74,7 +74,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c019", "description": "Lyon County", "census_variable": "" },
+"name": "s32c019", "description": "Lyon County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -82,7 +82,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c021", "description": "Mineral County", "census_variable": "" },
+"name": "s32c021", "description": "Mineral County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -90,7 +90,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c023", "description": "Nye County", "census_variable": "" },
+"name": "s32c023", "description": "Nye County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -98,7 +98,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c027", "description": "Pershing County", "census_variable": "" },
+"name": "s32c027", "description": "Pershing County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -106,7 +106,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c029", "description": "Storey County", "census_variable": "" },
+"name": "s32c029", "description": "Storey County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -114,7 +114,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c031", "description": "Washoe County", "census_variable": "" },
+"name": "s32c031", "description": "Washoe County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -122,7 +122,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c033", "description": "White Pine County", "census_variable": "" },
+"name": "s32c033", "description": "White Pine County, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
@@ -130,7 +130,7 @@
 ]] }
 }, {"type": "Feature",
 "properties": {
-"name": "s32c510", "description": "Carson City", "census_variable": "" },
+"name": "s32c510", "description": "Carson City, Nevada", "census_variable": "" },
 "geometry": {
 "type": "Polygon",
 "coordinates": [[
